@@ -1,0 +1,11 @@
+{
+  "name": "vipinreact",
+  "version": "1.0.0",
+  "description": "reactproject",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js" 
+  },
+  "author": "Vipin Jain",
+  "license": "ISC"
+}
